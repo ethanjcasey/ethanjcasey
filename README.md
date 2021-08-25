@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanjcasey
 - 👀 I’m interested in AI, Game Dev, and Web Dev
-- 🌱 I’m currently learning Artificial Intelligence at UNO 
+- 🌱 I’m currently learning Artificial Intelligence and full stack web dev using Spring and Vue (along with other tools)
 - 💞️ I’m looking to collaborate on Anyting
 - 📫 How to reach me ejcasey@unomaha.edu for school related inquiries, ethanjcasey@gmail.com for other 
 
